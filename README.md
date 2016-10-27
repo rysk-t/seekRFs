@@ -21,7 +21,7 @@ Windows Application for hand-mapping in neuroscience.
  - SPACE: Reset Presets
  - ESC: quit
 
-You can replace image-set by copy your files to "imgs\" (.png file).
+You can replace images by copying your specific file to "imgs\" (.png file).
 
 # Dependency
 

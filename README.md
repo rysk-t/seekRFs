@@ -3,7 +3,7 @@ seekRFs
 
 Windows Application for hand-mapping in neuroscience.
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=8A7t8uTPtsw&feature=youtu.be/0.jpg)](https://youtu.be/8A7t8uTPtsw)
+[![IMAGE ALT TEXT HERE](demo.png)](https://youtu.be/8A7t8uTPtsw)
 
 (This app was made for visual-neuroscience.)
 
@@ -20,7 +20,7 @@ Windows Application for hand-mapping in neuroscience.
  - 0: grating mode
  - SPACE: Reset Presets
  - ESC: quit
- 
+
 You can replace image-set by copy your files to "imgs\" (.png file).
 
 # Dependency
